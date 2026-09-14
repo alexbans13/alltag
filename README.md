@@ -1,8 +1,9 @@
-# Journal & Learn
+# Alltag
 
 Journal about your day in your native language, then practice expressing it in your
-target language (German first) at your current CEFR level. Personal-use MVP — see
-the PRD for the full spec.
+target language (German first) at your current CEFR level. "Alltag" is German for
+"everyday life" — the whole premise of the app is turning your Alltag into language
+practice. Personal-use MVP — see the PRD for the full spec.
 
 ## Stack
 
